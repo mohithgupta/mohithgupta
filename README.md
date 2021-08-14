@@ -1,27 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohith Gupta</h1>
 <h3 align="center">A Passionate Learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgupta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohithgupta" alt="mohithgupta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tobeawebdev" target="blank"><img src="https://img.shields.io/twitter/follow/tobeawebdev?logo=twitter&style=for-the-badge" alt="tobeawebdev" /></a> </p>
-
 - 🔭 I’m currently working on **a side project, building a web extension**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://mohithgupta.github.io](https://mohithgupta.github.io)
+- 👨‍💻 You can visit my portfolio at [https://mohithgupta.github.io](https://mohithgupta.github.io)
 
 - 📝 I regularly write articles on [https://mohithgupta.medium.com/](https://mohithgupta.medium.com/)
 
 - 💬 Ask me about **C++, JavaScript, Python, React, Git, CSS**
 
 - 📫 How to reach me **mohithguptak@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,4 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohithgupta&show_icons=true&locale=en" alt="mohithgupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohithgupta&" alt="mohithgupta" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgupta" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohithgupta" alt="mohithgupta" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/tobeawebdev" target="blank"><img src="https://img.shields.io/twitter/follow/tobeawebdev?logo=twitter&style=for-the-badge" alt="tobeawebdev" /></a> </p>
