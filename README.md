@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohith Gupta</h1>
 <h3 align="center">A Passionate Learner from India</h3>
 
-- 🔭 I’m currently working on **a side project, building a web extension**
+- 🔭 I’m currently working as a **Software Engineer** at **Mastercard**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
