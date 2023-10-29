@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mohith Gupta</h1>
-<h3 align="center">A Passionate Learner from India</h3>
+<h1 align="center">👋 I'm Mohith</h1>
+<h3 align="center">A Passionate Learner</h3>
 
-- 🔭 I’m currently working as a **Software Engineer** at **Mastercard**
+- 🔭 working as a **Software Engineer** at **Mastercard**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 currently learning **Advanced Redux & NextJS & Advanced Typescript**
 
 - 👨‍💻 You can visit my portfolio at [https://mohithgupta.github.io](https://mohithgupta.github.io)
 
-- 📝 I regularly write articles on [https://mohithgupta.medium.com/](https://mohithgupta.medium.com/)
+- 📝 I seldom write articles on [https://mohithgupta.medium.com/](https://mohithgupta.medium.com/)
 
-- 💬 Ask me about **C++, JavaScript, Python, React, Git, CSS**
+- 💬 Ask me about **React, JavaScript, Git, JS Libraries, Css Libraries, Python**
 
-- 📫 How to reach me **mohithguptak@gmail.com**
+- 📫 Reach out to me @**mohithguptak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohith-gupta-korangi-8815a2197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohith-gupta-korangi-8815a2197" height="30" width="40" /></a>
 <a href="https://medium.com/@mohithgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohithgupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohith_cp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohith_cp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohit_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit_gupta" height="30" width="40" /></a>
+<a href="https://twitter.com/tobeawebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohit_gupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
