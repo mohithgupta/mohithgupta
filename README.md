@@ -7,7 +7,7 @@
 
 - 🔭 working as a **Software Engineer** at **Mastercard**
 
-- 🌱 currently learning **Redux && NextJS && Typescript**
+- 🌱 currently cooking some **Interesting AI projects**
 
 - 👨‍💻 You can visit my portfolio at [https://mohithgupta.github.io](https://mohithgupta.github.io)
 
