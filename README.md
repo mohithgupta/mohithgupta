@@ -1,3 +1,7 @@
+<p> If you want to build a readme file just like mine, check out <a href="https://javascript.plainenglish.io/the-best-readme-generators-for-your-github-profile-ea4f50559d87" target="_blank" rel="noreferrer">this Medium Blog</a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgupta" /> </p>
+
 <h1 align="center">👋 I'm Mohith</h1>
 <h3 align="center">A Passionate Learner</h3>
 
@@ -12,10 +16,6 @@
 - 💬 Ask me about **React, JavaScript, Git, JS Libraries, CSS Libraries, Python**
 
 - 📫 Reach out to me @**mohithguptak@gmail.com**
-
-<p> If you want to build a readme file just like mine, check out <a href="https://javascript.plainenglish.io/the-best-readme-generators-for-your-github-profile-ea4f50559d87" target="_blank" rel="noreferrer">this Medium Blog</a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgupta" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
