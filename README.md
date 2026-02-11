@@ -1,4 +1,4 @@
-<p> If you want to build a readme file just like mine, check out <a href="https://javascript.plainenglish.io/the-best-readme-generators-for-your-github-profile-ea4f50559d87" target="_blank" rel="noreferrer">this Medium Blog</a> </p>
+<p> If you want to build a README file just like mine, check this out - <a href="https://javascript.plainenglish.io/the-best-readme-generators-for-your-github-profile-ea4f50559d87" target="_blank" rel="noreferrer">README Generators Blog</a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgupta" /> </p>
 
@@ -19,10 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tobeawebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobeawebdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohithgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohithgupta" height="30" width="40" /></a>
 <a href="https://medium.com/@mohithgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohithgupta" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@mohithgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@mohithgupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
